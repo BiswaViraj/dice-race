@@ -1,5 +1,6 @@
 # dice-race
 
+(A version Pig dice game)
 
 GAME RULES:
 
